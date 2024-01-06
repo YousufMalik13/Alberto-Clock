@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* footer open*/
+
+/* footer {
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: auto;
+    width: 100;
+    padding: 15px 0 3px 0;
+    color: #fff;
+    text-align: center;
+    margin: auto;
+}
+
+footer p a {
+    font-size: 24px;
+}
+
+@media (max-width:500px) {
+    footer {
+        font-size: 12px;
+        padding-bottom: 7px;
+    }
+
+    footer p a {
+        font-size: 17px;
+    }
+} */
+
+/* footer close*/
+@media screen and (max-width:767px) {
+    .fa {
+        width: 30px;
+    }
+
+    .second {
+        font-size: 12px;
+
+    }
+}
